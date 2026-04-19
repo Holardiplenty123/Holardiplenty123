@@ -81,6 +81,11 @@ I'm a **Data Analyst** with a background in healthcare and business intelligence
 
 ---
 
+### 🧠 [Mental Health Analysis — Python](https://github.com/Holardiplenty123/Mental_Health_-Analysis_-Python)
+> Python-based exploratory data analysis on mental health datasets, uncovering trends across demographics and conditions.
+
+**Skills:** Python · pandas · Jupyter Notebook · EDA
+
 ### 💊 [Supplement Sales Analysis — Excel](https://github.com/Holardiplenty123/Supplement-Sales-Analysis-Excel)
 > Sales performance dashboard and trend analysis for supplement products using Excel pivot tables and charts.
 
