@@ -45,9 +45,16 @@ I'm a **Data Analyst** with a background in healthcare and business intelligence
 ## 📁 Featured Projects
 
 ### 🏥 [Hospital Readmission Prediction & Analysis — SQL](https://github.com/Holardiplenty123/Hospital-Readmission-Prediction-Analysis-SQL)
-> End-to-end SQL project on 18,000+ patient records using PostgreSQL. Covers data validation, duplicate detection, exploratory analysis, and business insight generation. Includes full documentation, findings report, and GitHub README.
+> End-to-end SQL analysis of 18,000+ hospital records using PostgreSQL. Covers data validation, duplicate detection, EDA, and business insight generation. Includes full documentation, findings report, and GitHub README.
 
 **Skills:** PostgreSQL · Data Cleaning · EDA · Data Quality · Documentation
+
+---
+
+### 🏥 [Hospital Readmission Analysis — SQL](https://github.com/Holardiplenty123/hospital-readmission-analysis-SQL)
+> SQL-based analysis of hospital readmission data exploring patient trends, admission patterns, and risk factors using PostgreSQL.
+
+**Skills:** PostgreSQL · Data Analysis · Healthcare Analytics
 
 ---
 
