@@ -64,6 +64,13 @@ I'm a **Data Analyst** with a background in healthcare and business intelligence
 **Skills:** SQL · PostgreSQL · Healthcare Analytics
 
 
+### 🩺 [Patient Appointments — SQL](https://github.com/Holardiplenty123/Patient_appointments--SQL)
+> SQL-based exploration of patient appointment scheduling data, identifying no-show patterns and demographic trends.
+
+**Skills:** SQL · PostgreSQL · Healthcare Analytics
+
+---
+
 
 ---
 
