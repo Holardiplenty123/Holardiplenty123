@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi, I'm Adigun Samuel 👋</h1>
-<h3 align="center">Data Analyst | Healthcare & Business Intelligence | SQL · Python · Power bi · Excel</h3>
+<h3 align="center">Data Analyst | Data Scientist| Healthcare & Business Intelligence | SQL · Python · Power bi · Excel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adigun-samuel-3397b7238" target="_blank">
