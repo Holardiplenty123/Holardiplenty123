@@ -97,7 +97,7 @@ I'm a **Data Analyst** with a background in healthcare and business intelligence
 
 ## 🤝 Let's Connect
 
-I'm open to **collaborations**, **internship opportunities**, and **entry-level data analyst roles**. Feel free to reach out!
+I'm open to **collaborations**, **internship opportunities**, and **data analyst roles**. Feel free to reach out!
 
 - 💼 [LinkedIn — Adigun Samuel](https://www.linkedin.com/in/adigun-samuel-3397b7238)
 - 🐦 [Twitter — @Holardiplenty1](https://twitter.com/Holardiplenty1)
