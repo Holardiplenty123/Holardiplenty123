@@ -21,10 +21,10 @@
 
 I'm a **Data Analyst** with a background in healthcare and business intelligence. I turn raw, messy data into clear insights that drive decisions using SQL, Python, Power BI, and Excel as my core tools.
 
-- 🏥 Passionate about **healthcare data** — from hospital readmissions to pharmacy analytics
+- 🏥 Passionate about **healthcare data** from hospital readmissions to pharmacy analytics
 - 📊 Building a public portfolio of **end-to-end data projects** to demonstrate real-world analytical skills
 - 🌱 Currently deepening my expertise in **advanced SQL**, **DAX**, and **dashboard storytelling**
-- 💡 I believe good data analysis isn't just about numbers — it's about the story they tell
+- 💡 I believe good data analysis isn't just about numbers it's about the story they tell
 
 ---
 
